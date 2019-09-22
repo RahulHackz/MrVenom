@@ -1,2 +1,11 @@
 # MrVenom
-A Simple Bash script which cam make PAYLOADS using MSFConsole
+MRVenom Payload Generator and WAN Listener
+
+
+## Usage:
+```
+git clone https://github.com/RahulHackz/MrVenom
+cd MrVenomVenomGen
+chmod +x MRVenom.sh
+./MrVenomVenom.sh
+```
